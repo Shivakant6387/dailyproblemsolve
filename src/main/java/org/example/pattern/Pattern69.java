@@ -2,11 +2,14 @@ package org.example.pattern;
 
 import java.util.Scanner;
 
-public class Pattern66 {
-    public  static void patternPrint(int n){
+public class Pattern69 {
+    static void  patternPrint(int n){
         for (int i=0;i<=n;i++){
-            for (int j=0;j<=i;j++){
+            for (int j=n;j>i;j--){
                 System.out.print("*");
+            }
+            for (int k=0;k<=i;k++){
+                System.out.print(" ");
             }
             System.out.println();
         }
