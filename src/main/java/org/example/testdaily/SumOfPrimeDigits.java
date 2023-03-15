@@ -1,7 +1,5 @@
 package org.example.testdaily;
-
 import java.util.Scanner;
-
 public class SumOfPrimeDigits {
     static void checkPrimeSum(int n ,int p){
         int i,m=0,flag=0 ,d=0;
@@ -22,7 +20,6 @@ public class SumOfPrimeDigits {
                 if (flag == 0) {
                     sum = n + p;
                     System.out.println(sum + " is prime number");
-
             }
         }
     }
