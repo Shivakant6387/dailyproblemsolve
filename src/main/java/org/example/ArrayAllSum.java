@@ -1,4 +1,5 @@
 package org.example;
+import java.util.Arrays;
 
 public class ArrayAllSum {
     public static void main(String[] args) {
@@ -7,6 +8,8 @@ public class ArrayAllSum {
     }
     static int sum(int arr[]){
         int sum=0;
+        System.out.println(Arrays.stream(arr).sum());
+
         for (int i=0;i<arr.length;i++){
             sum+=arr[i];
         }
