@@ -2,7 +2,7 @@ package org.example;
 
 public class LCM {
     public static void main(String[] args) {
-        int arr[]={5,6};
+        int arr[]={12,15,9,10,6,3};
         System.out.println(lcm(arr));
     }
     static long lcm(int arr[]){
