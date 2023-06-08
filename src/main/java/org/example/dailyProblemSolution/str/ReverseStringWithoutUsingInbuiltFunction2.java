@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.str;
 
 public class ReverseStringWithoutUsingInbuiltFunction2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.str;
 
 public class StringReverseUseStringBuilder {
     public static void main(String[] args) {

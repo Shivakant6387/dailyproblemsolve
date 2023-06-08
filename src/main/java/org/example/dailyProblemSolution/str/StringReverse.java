@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.str;
 
 public class StringReverse {
     public static void strReverse(String str){
