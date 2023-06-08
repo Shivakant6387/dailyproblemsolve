@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.array;
 
 public class ArrayReverseOrder {
     public static void reverseOrder(int nums[],int length){

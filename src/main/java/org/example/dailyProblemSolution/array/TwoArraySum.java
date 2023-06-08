@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.array;
 //Display sum of both array numbers in one new array?
 public class TwoArraySum {
     public static void twoArraySum(int nums1[],int nums2[]){

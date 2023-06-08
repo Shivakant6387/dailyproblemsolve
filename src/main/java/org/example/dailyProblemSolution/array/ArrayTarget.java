@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.array;
 
 public class ArrayTarget {
     public static void main(String[] args) {

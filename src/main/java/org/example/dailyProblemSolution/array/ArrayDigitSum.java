@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.array;
 
 public class ArrayDigitSum {
     public static void digitSum(int nums[],int length){
