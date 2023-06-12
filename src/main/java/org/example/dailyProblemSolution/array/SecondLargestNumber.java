@@ -1,4 +1,4 @@
-package org.example.dailyProblemSolution;
+package org.example.dailyProblemSolution.array;
 
 public class SecondLargestNumber {
     public static void secondLargestNumber(int arr[]){
